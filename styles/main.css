@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,200,700')
+
+
+body{
+  font-family: 'Source Code Pro', monospace;
+  padding-top: 60px;
+}
+
+.container{
+  position: relative;
+  padding-top:60px;
+}
+
+.container h1{
+  position: relative;
+  padding-top:300px;
+}
+
+body {
+    margin: 20px;
+}
+#form-container {
+    width: 500px;
+}
+#form-container .validation-error {
+    border-color: #b94a48;
+    color: #b94a48;
+}
+#form-container .help-block.text-error {
+    color: #b94a48;
+}

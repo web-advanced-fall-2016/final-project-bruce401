@@ -19,7 +19,7 @@ You can use any tool/library as long as you properly reference it. There are no 
 
 - Implement UI elements of your choice, show your JavaScript skills.
 - Make a responsive static web page. Make cool and neat interactions.
-- Use p5.js/paper.js/snap.svg . 
+- Use p5.js/paper.js/snap.svg .
 - Make your own icons and animations.
 - Data visualization, use chart.js/THREE.js/WebGL
 
@@ -45,7 +45,7 @@ December 20th.
 
 ##### Submission Requirements
 
-After submitting your proposal, a repository will be created for every person/team. Your final code should be push to the repository before deadline. 
+After submitting your proposal, a repository will be created for every person/team. Your final code should be push to the repository before deadline.
 
 You must write a README.md for your repository, explaining your idea, approach, tools/libraries and … .
 
@@ -53,3 +53,10 @@ You must write a README.md for your repository, explaining your idea, approach, 
 
 ### Good luck :fire::fire::fire:
 
+
+
+### Endpoints
+Not exactly RESTful, we'll only be using GET and POST methods.
+Going to use the URLs:
+/post
+/new for new post form

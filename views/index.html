@@ -1,0 +1,12 @@
+<h1>Blooog!</h1>
+
+{{#each entries}}
+  <p>
+    <!-- include an id for each article -->
+    <a href="/article/{{id}}">{{title}}</a><br/>
+    Published: {{published}}
+  </p>
+{{/each}}
+
+<!-- #each directive will iterate over an array
+inside of the block there's a combo of handlebar tokens plus html to make a simple list of entries -->
